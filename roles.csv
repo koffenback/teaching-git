@@ -1,0 +1,41 @@
+Sub-Area,Role,Typical Level,Category
+Cybersecurity Operations,Security Operations Director,Senior,Leadership
+Cybersecurity Operations,SOC Manager,Senior,Leadership
+Cybersecurity Operations,Security Architect,Senior,Technical Specialist
+Cybersecurity Operations,Threat Intelligence Analyst,Senior,Technical Specialist
+Cybersecurity Operations,Security Engineer,Mid-Level,Operational Roles
+Cybersecurity Operations,SOC Analyst L2,Mid-Level,Operational Roles
+Cybersecurity Operations,SOC Analyst L1,Entry-Level,Support
+Cybersecurity Operations,Incident Response Analyst,Mid-Level,Operational Roles
+Security Governance,CISO,Senior,Leadership
+Security Governance,Security Program Manager,Senior,Leadership
+Security Governance,Security Policy Analyst,Senior,Technical Specialist
+Security Governance,Security Controls Architect,Senior,Technical Specialist
+Security Governance,Security Standards Engineer,Mid-Level,Operational Roles
+Security Governance,Security Awareness Trainer,Mid-Level,Operational Roles
+Security Governance,Security Program Coordinator,Entry-Level,Support
+Risk Management,Risk Management Director,Senior,Leadership
+Risk Management,Risk Assessment Manager,Senior,Leadership
+Risk Management,Risk Architect,Senior,Technical Specialist
+Risk Management,Security Risk Analyst,Mid-Level,Technical Specialist
+Risk Management,Vulnerability Manager,Mid-Level,Operational Roles
+Risk Management,Pen Tester,Mid-Level,Technical Specialist
+Risk Management,Vulnerability Analyst,Entry/Mid-Level,Operational Roles
+Risk Management,Risk Assessment Analyst,Entry-Level,Support
+Compliance,Compliance Director,Senior,Leadership
+Compliance,Audit Manager,Senior,Leadership
+Compliance,Security Compliance Architect,Senior,Technical Specialist
+Compliance,Senior Compliance Analyst,Senior,Technical Specialist
+Compliance,Security Auditor,Mid-Level,Operational Roles
+Compliance,Compliance Analyst,Mid-Level,Operational Roles
+Compliance,Compliance Coordinator,Entry-Level,Support
+Compliance,Audit Associate,Entry-Level,Support
+Identity and Access Management,IAM Director,Senior,Leadership
+Identity and Access Management,IAM Program Manager,Senior,Leadership
+Identity and Access Management,IAM Architect,Senior,Technical Specialist
+Identity and Access Management,IAM Security Engineer,Senior,Technical Specialist
+Identity and Access Management,Access Control Administrator,Mid-Level,Operational Roles
+Identity and Access Management,IAM Administrator,Mid-Level,Operational Roles
+Identity and Access Management,Directory Services Specialist,Mid-Level,Operational Roles
+Identity and Access Management,IAM Support Analyst,Entry-Level,Support
+

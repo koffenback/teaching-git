@@ -1,0 +1,11 @@
+---
+all:
+  ansible_python_interpreter: /opt/homebrew/bin/python3
+servers:
+  hosts:
+    is-splunk1-vm:
+      ansible_user: is_ghrunner_srvc
+      ansible_host: 172.190.145.31
+      ansible_python_interpreter: auto_silent
+      system_owner_team: ITOC
+      system_owner_team_contact: 555-5555

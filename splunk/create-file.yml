@@ -1,0 +1,11 @@
+---
+- name: Create a file on the remote system
+  hosts: servers
+  gather_facts: false
+
+  tasks:
+    - name: Create a file in Temp dir
+      ansible.builtin.template:
+        src: example-file.txt.j2
+        dest: /tmp/example-file.txt
+        mode: '0644'
